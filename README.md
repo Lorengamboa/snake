@@ -1,1 +1,1 @@
-"# snake" 
+"## JS SNAKE GAME" 
