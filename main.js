@@ -1,7 +1,6 @@
 /**
  *@Author: Lorenzo Gamboa García
  *@Desc: Simple snake javascript game
- *@License: You can use it but it would be awesome if you make a reference to my repo
  */
 
 (function() {
